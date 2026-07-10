@@ -12,6 +12,9 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalClipboard
@@ -26,6 +29,8 @@ import com.gemwallet.android.ui.DetectScreenshot
 import com.gemwallet.android.ui.DisableScreenShooting
 import com.gemwallet.android.ui.R
 import com.gemwallet.android.ui.components.DocsInfoButton
+import com.gemwallet.android.ui.components.InfoBottomSheet
+import com.gemwallet.android.ui.components.InfoSheetEntity
 import com.gemwallet.android.ui.components.buttons.CopyButton
 import com.gemwallet.android.ui.components.clipboard.setPlainText
 import com.gemwallet.android.ui.components.screen.LoadingScene
@@ -77,7 +82,10 @@ fun WalletSecretDataNavScreen(
 
     val context = LocalContext.current
     val clipboardManager = LocalClipboard.current.nativeClipboard
-
+    var infoSheetEntity by remember { mutableStateOf<InfoSheetEntity?>(null) }
+    val reminderDescription = stringResource(id = R.string.info_reminder_copying_secret_phrase_description1) +
+        "\n" + stringResource(id = R.string.info_reminder_copying_secret_phrase_description2)
+    val understandLabel = stringResource(id = R.string.common_i_understand)
 
     if (value == null) {
         LoadingScene(title = stringResource(id = content.titleRes), onCancel)
@@ -140,8 +148,18 @@ fun WalletSecretDataNavScreen(
                 )
             } ?: PhraseLayout(words = value?.phrase() ?: emptyList())
 
-            CopyButton(onClick = { clipboardManager.setPlainText(context, value.toString(), true) })
+            CopyButton(
+                onClick = {
+                    infoSheetEntity = InfoSheetEntity.ReminderCopyingSecretPhrase(
+                        description = reminderDescription,
+                        actionLabel = understandLabel,
+                        action = { clipboardManager.setPlainText(context, value.toString(), true) },
+                    )
+                }
+            )
         }
+
+        InfoBottomSheet(item = infoSheetEntity, onClose = { infoSheetEntity = null })
     }
 }
 

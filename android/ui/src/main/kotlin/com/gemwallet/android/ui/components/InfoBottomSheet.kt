@@ -233,6 +233,14 @@ sealed class InfoSheetEntity(
         actionLabel = actionLabel,
         action = action,
     )
+
+    class ReminderCopyingSecretPhrase(description: String, actionLabel: String, action: () -> Unit) : InfoSheetEntity(
+        icon = R.drawable.ic_secret_phrase_reminder,
+        title = R.string.info_reminder_copying_secret_phrase_title,
+        descriptionText = description,
+        actionLabel = actionLabel,
+        action = action,
+    )
 }
 
 @OptIn(ExperimentalMaterial3Api::class)
