@@ -16,6 +16,7 @@ import Swap
 import SwiftUI
 import Validators
 import WalletConnector
+import Keystore
 
 @Observable
 @MainActor
@@ -28,18 +29,19 @@ public final class ConfirmTransferSceneViewModel {
         }
     }
 
-    var confirmingState: StateViewType<Bool> = .noData {
-        didSet {
-            if case let .error(error) = confirmingState {
-                isPresentingAlertMessage = AlertMessage(
-                    title: Localized.Errors.transferError,
-                    message: error.localizedDescription,
-                )
-            } else {
-                isPresentingAlertMessage = nil
-            }
-        }
-    }
+     var confirmingState: StateViewType<Bool> = .noData {
+         didSet {
+             switch confirmingState {
+             case let .error(error) where (error as? BiometryAuthenticationError) == nil:
+                 isPresentingAlertMessage = AlertMessage(
+                     title: Localized.Errors.transferError,
+                     message: error.localizedDescription
+                 )
+             default:
+                 isPresentingAlertMessage = nil
+             }
+         }
+     }
 
     public var isPresentingSheet: ConfirmTransferSheetType?
     public var isPresentingAlertMessage: AlertMessage?

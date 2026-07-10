@@ -72,9 +72,13 @@ public final class LocalKeystorePassword: KeystorePassword {
     }
 
     public func getPassword(context: LAContext) throws -> String {
-        try keychain
-            .authenticationContext(context)
-            .get(Keys.password) ?? ""
+        do {
+            return try keychain
+                .authenticationContext(context)
+                .get(Keys.password) ?? ""
+        } catch let error as NSError {
+            throw BiometryAuthenticationError(error: error)
+        }
     }
 
     public func setPassword(_ password: String, authentication: KeystoreAuthentication) throws {
