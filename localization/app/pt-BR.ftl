@@ -41,6 +41,7 @@ common_unpinned_asset = Desafixado: %@
 common_skip = Pular
 common_warning = Aviso
 common_learn_more = Saber mais
+common_i_understand = Eu entendo
 common_description = Descrição
 common_emoji = Emoji
 common_avatar = Avatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = APR de financiamento
 info_perpetual_funding_apr_description = A taxa anualizada pela qual as posições compradas pagam as posições vendidas (se for negativa, as posições vendidas pagam as posições compradas). Não há taxas associadas ao financiamento, que é uma transferência ponto a ponto entre usuários para empurrar os preços em direção ao preço à vista.
 info_minimum_amount_title = Quantidade Mínima
 info_minimum_amount_description = Na rede %@, o valor mínimo para esta transação é %@.
+info_reminder_copying_secret_phrase_title = Lembrete
+info_reminder_copying_secret_phrase_description1 = Qualquer pessoa que tenha sua Frase secreta terá acesso à sua carteira e controle total sobre seus fundos.
+info_reminder_copying_secret_phrase_description2 = A Gem não pode ajudar caso quaisquer fundos sejam perdidos devido ao compartilhamento de uma Frase secreta.
 
 # Input
 

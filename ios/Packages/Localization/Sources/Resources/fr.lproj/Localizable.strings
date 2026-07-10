@@ -39,6 +39,7 @@
 "common.skip" = "Passer";
 "common.warning" = "Avertissement";
 "common.learn_more" = "En savoir plus";
+"common.i_understand" = "Je comprends";
 "common.description" = "Descriptif";
 "common.emoji" = "Émoji";
 "common.avatar" = "Avatar";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "Le taux annualisé auquel les positions longues paient les positions courtes (si négatif, les positions courtes paient les positions longues). Il n'y a aucun frais associé au financement, qui est un transfert peer-to-peer entre utilisateurs pour pousser les prix vers le prix spot.";
 "info.minimum_amount.title" = "Montant minimum";
 "info.minimum_amount.description" = "Sur le réseau %@, le montant minimum pour cette transaction est %@.";
+"info.reminder_copying_secret_phrase.title" = "Rappel";
+"info.reminder_copying_secret_phrase.description1" = "Toute personne disposant de votre Phrase secrète aura accès à votre portefeuille et un contrôle total sur vos fonds.";
+"info.reminder_copying_secret_phrase.description2" = "Gem ne peut pas vous aider en cas de perte de fonds due au partage d'une Phrase secrète.";
 "input.enter_amount_to" = "Veuillez saisir le montant de %@";
 "nft.properties" = "Propriétés";
 "nft.collections" = "Collections";

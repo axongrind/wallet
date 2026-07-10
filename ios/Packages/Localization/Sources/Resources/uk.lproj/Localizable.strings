@@ -39,6 +39,7 @@
 "common.skip" = "Пропустити";
 "common.warning" = "Попередження";
 "common.learn_more" = "Дізнайтеся більше";
+"common.i_understand" = "Я розумію";
 "common.description" = "Опис";
 "common.emoji" = "Емодзі";
 "common.avatar" = "Аватар";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "Річна ставка, за якою довгі позиції платять за короткі позиції (якщо від'ємна, короткі позиції платять за довгі позики). Немає жодної комісії, пов'язаної з фінансуванням, яке є одноранговою передачею між користувачами для підвищення цін до спотової ціни.";
 "info.minimum_amount.title" = "Мінімальна сума";
 "info.minimum_amount.description" = "У мережі %@ мінімальна сума для цієї транзакції становить %@.";
+"info.reminder_copying_secret_phrase.title" = "Нагадування";
+"info.reminder_copying_secret_phrase.description1" = "Будь-хто, хто має вашу Секретну фразу, матиме доступ до вашого гаманця та повний контроль над вашими коштами.";
+"info.reminder_copying_secret_phrase.description2" = "Gem не зможе допомогти, якщо кошти буде втрачено через передавання Секретної фрази.";
 "input.enter_amount_to" = "Будь ласка, введіть суму для %@";
 "nft.properties" = "Властивості";
 "nft.collections" = "Колекції";

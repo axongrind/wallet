@@ -41,6 +41,7 @@ common_unpinned_asset = Odepnuto: %@
 common_skip = Přeskočit
 common_warning = Varování
 common_learn_more = Další informace
+common_i_understand = Rozumím
 common_description = Popis
 common_emoji = Emoji
 common_avatar = Avatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = Financování RPSN
 info_perpetual_funding_apr_description = Anualizovaná sazba, jakou longs platí shorts (pokud jsou záporné, shorts platí longs). S financováním nejsou spojeny žádné poplatky, což je peer-to-peer převod mezi uživateli za účelem tlačení cen směrem k spotové ceně.
 info_minimum_amount_title = Minimální částka
 info_minimum_amount_description = V síti %@ je minimální částka pro tuto transakci %@.
+info_reminder_copying_secret_phrase_title = Připomenutí
+info_reminder_copying_secret_phrase_description1 = Kdokoli, kdo má vaši tajnou frázi, získá přístup k vaší peněžence a plnou kontrolu nad vašimi prostředky.
+info_reminder_copying_secret_phrase_description2 = Gem nemůže pomoci, pokud dojde ke ztrátě jakýchkoli prostředků kvůli sdílení tajné fráze.
 
 # Input
 

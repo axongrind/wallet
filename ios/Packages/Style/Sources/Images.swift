@@ -195,6 +195,7 @@ public enum Images {
 
     public enum Info {
         public static let networkFee = Image(.networkFee)
+        public static let warning = Image(.warning)
     }
 
     public enum PriceAlert {

@@ -39,6 +39,7 @@
 "common.skip" = "לְדַלֵג";
 "common.warning" = "אַזהָרָה";
 "common.learn_more" = "למידע נוסף";
+"common.i_understand" = "הבנתי";
 "common.description" = "תֵאוּר";
 "common.emoji" = "אימוג'י";
 "common.avatar" = "גִלגוּל";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "השיעור השנתי שבו לונג משלם שורט (אם שלילי, שורט משלם לונג). אין עמלות הקשורות למימון, שהוא העברה עמית לעמית בין משתמשים כדי לדחוף את המחירים לכיוון מחיר הספוט.";
 "info.minimum_amount.title" = "כמות מינימלית";
 "info.minimum_amount.description" = "ברשת %@, הסכום המינימלי לעסקה זו הוא %@.";
+"info.reminder_copying_secret_phrase.title" = "תזכורת";
+"info.reminder_copying_secret_phrase.description1" = "לכל מי שיש לו את הביטוי הסודי שלך תהיה גישה לארנק שלך ושליטה מלאה על הכספים שלך.";
+"info.reminder_copying_secret_phrase.description2" = "Gem לא תוכל לעזור אם כספים יאבדו עקב שיתוף ביטוי סודי.";
 "input.enter_amount_to" = "נא להזין סכום ל-%@";
 "nft.properties" = "מאפיינים";
 "nft.collections" = "אוספים";

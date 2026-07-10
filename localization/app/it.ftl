@@ -41,6 +41,7 @@ common_unpinned_asset = Fissaggio rimosso: %@
 common_skip = Salta
 common_warning = Avviso
 common_learn_more = Saperne di più
+common_i_understand = Ho capito
 common_description = Descrizione
 common_emoji = Emoji
 common_avatar = Avatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = Finanziamento APR
 info_perpetual_funding_apr_description = Il tasso annualizzato al quale le posizioni long pagano le posizioni short (se negativo, le posizioni short pagano le posizioni long). Non sono previste commissioni associate al finanziamento, che è un trasferimento peer-to-peer tra utenti per spingere i prezzi verso il prezzo spot.
 info_minimum_amount_title = Importo minimo
 info_minimum_amount_description = Sulla rete %@, l'importo minimo per questa transazione è %@.
+info_reminder_copying_secret_phrase_title = Promemoria
+info_reminder_copying_secret_phrase_description1 = Chiunque possieda la tua Frase segreta avrà accesso al tuo portafoglio e il pieno controllo dei tuoi fondi.
+info_reminder_copying_secret_phrase_description2 = Gem non è in grado di aiutarti se dei fondi vengono persi a causa della condivisione di una Frase segreta.
 
 # Input
 

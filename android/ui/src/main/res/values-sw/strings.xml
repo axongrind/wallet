@@ -41,6 +41,7 @@
   <string name="common_skip">Ruka</string>
   <string name="common_warning">Onyo</string>
   <string name="common_learn_more">Jifunze Zaidi</string>
+  <string name="common_i_understand">Ninaelewa</string>
   <string name="common_description">Maelezo</string>
   <string name="common_emoji">Emoji</string>
   <string name="common_avatar">Avatar</string>
@@ -467,6 +468,9 @@
   <string name="info_perpetual_funding_apr_description">Kiwango cha kila mwaka ambacho nafasi ndefu hulipa nafasi fupi (ikiwa hasi, nafasi fupi hulipa nafasi ndefu). Hakuna ada zinazohusishwa na ufadhili, ambao ni uhamishaji kati ya watumiaji ili kusukuma bei kuelekea bei inayotarajiwa.</string>
   <string name="info_minimum_amount_title">Kiasi cha Chini</string>
   <string name="info_minimum_amount_description">Kwenye mtandao wa %1$s, kiasi cha chini kwa muamala huu ni %2$s.</string>
+  <string name="info_reminder_copying_secret_phrase_title">Ukumbusho</string>
+  <string name="info_reminder_copying_secret_phrase_description1">Mtu yeyote aliye na Kifungu chako cha Siri atakuwa na ufikiaji wa pochi yako na udhibiti kamili wa fedha zako.</string>
+  <string name="info_reminder_copying_secret_phrase_description2">Gem haiwezi kusaidia iwapo fedha zozote zitapotea kutokana na kushiriki Kifungu cha Siri.</string>
   <string name="input_enter_amount_to">Tafadhali weka kiasi hadi %1$s</string>
   <string name="nft_properties">Mali</string>
   <string name="nft_collections">Mikusanyiko</string>

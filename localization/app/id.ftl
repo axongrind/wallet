@@ -41,6 +41,7 @@ common_unpinned_asset = Sematan dilepas: %@
 common_skip = Lewati
 common_warning = Peringatan
 common_learn_more = Pelajari lebih lanjut
+common_i_understand = Saya mengerti
 common_description = Keterangan
 common_emoji = Emoji
 common_avatar = Avatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = APR Pendanaan
 info_perpetual_funding_apr_description = Tingkat tahunan di mana posisi long membayar posisi short (jika negatif, posisi short membayar posisi long). Tidak ada biaya yang terkait dengan pendanaan, yang merupakan transfer peer-to-peer antar pengguna untuk mendorong harga menuju harga spot.
 info_minimum_amount_title = Jumlah Minimum
 info_minimum_amount_description = Di jaringan %@, jumlah minimum untuk transaksi ini adalah %@.
+info_reminder_copying_secret_phrase_title = Pengingat
+info_reminder_copying_secret_phrase_description1 = Siapa pun yang memiliki Frasa Rahasia Anda akan memiliki akses ke dompet Anda dan kendali penuh atas dana Anda.
+info_reminder_copying_secret_phrase_description2 = Gem tidak dapat membantu jika ada dana yang hilang akibat membagikan Frasa Rahasia.
 
 # Input
 

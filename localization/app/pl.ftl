@@ -41,6 +41,7 @@ common_unpinned_asset = Odpięto: %@
 common_skip = Pomiń
 common_warning = Ostrzeżenie
 common_learn_more = Dowiedz się więcej
+common_i_understand = Rozumiem
 common_description = Opis
 common_emoji = Emoji
 common_avatar = Awatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = Finansowanie RRSO
 info_perpetual_funding_apr_description = Roczna stopa procentowa, według której pozycje długie opłacają pozycje krótkie (jeśli wartość ujemna, pozycje krótkie opłacają pozycje długie). Nie ma żadnych opłat związanych z finansowaniem, które stanowi transfer typu peer-to-peer pomiędzy użytkownikami w celu podniesienia cen w kierunku ceny spot.
 info_minimum_amount_title = Minimalna kwota
 info_minimum_amount_description = W sieci %@ minimalna kwota tej transakcji to %@.
+info_reminder_copying_secret_phrase_title = Przypomnienie
+info_reminder_copying_secret_phrase_description1 = Każdy, kto ma Twoje Tajne zdanie, będzie miał dostęp do Twojego portfela i pełną kontrolę nad Twoimi środkami.
+info_reminder_copying_secret_phrase_description2 = Gem nie jest w stanie pomóc w przypadku utraty jakichkolwiek środków w wyniku udostępnienia Tajnego zdania.
 
 # Input
 

@@ -41,6 +41,7 @@ common_unpinned_asset = Désépinglé : %@
 common_skip = Passer
 common_warning = Avertissement
 common_learn_more = En savoir plus
+common_i_understand = Je comprends
 common_description = Descriptif
 common_emoji = Émoji
 common_avatar = Avatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = APR de financement
 info_perpetual_funding_apr_description = Le taux annualisé auquel les positions longues paient les positions courtes (si négatif, les positions courtes paient les positions longues). Il n'y a aucun frais associé au financement, qui est un transfert peer-to-peer entre utilisateurs pour pousser les prix vers le prix spot.
 info_minimum_amount_title = Montant minimum
 info_minimum_amount_description = Sur le réseau %@, le montant minimum pour cette transaction est %@.
+info_reminder_copying_secret_phrase_title = Rappel
+info_reminder_copying_secret_phrase_description1 = Toute personne disposant de votre Phrase secrète aura accès à votre portefeuille et un contrôle total sur vos fonds.
+info_reminder_copying_secret_phrase_description2 = Gem ne peut pas vous aider en cas de perte de fonds due au partage d'une Phrase secrète.
 
 # Input
 

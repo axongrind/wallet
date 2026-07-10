@@ -41,6 +41,7 @@ common_unpinned_asset = 고정 해제됨: %@
 common_skip = 건너뛰기
 common_warning = 경고
 common_learn_more = 더 알아보기
+common_i_understand = 이해했습니다
 common_description = 설명
 common_emoji = 이모티콘
 common_avatar = 아바타
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = 펀딩 APR
 info_perpetual_funding_apr_description = 매수자가 매도자에게 지급하는 연간 비율입니다(음수인 경우 매도자가 매수자에게 지급). 가격을 현물 가격으로 끌어올리기 위해 사용자 간에 P2P(Peer-to-Peer) 전송을 수행하는 자금 조달과 관련된 수수료는 없습니다.
 info_minimum_amount_title = 최소 금액
 info_minimum_amount_description = %@ 네트워크에서 이 거래의 최소 금액은 %@입니다.
+info_reminder_copying_secret_phrase_title = 알림
+info_reminder_copying_secret_phrase_description1 = 비밀 문구를 아는 사람은 누구나 귀하의 지갑에 접근하고 자금을 완전히 통제할 수 있습니다.
+info_reminder_copying_secret_phrase_description2 = 비밀 문구를 공유하여 자금이 손실된 경우 Gem은 도움을 드릴 수 없습니다.
 
 # Input
 

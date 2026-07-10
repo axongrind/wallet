@@ -39,6 +39,7 @@
 "common.skip" = "يتخطى";
 "common.warning" = "تحذير";
 "common.learn_more" = "يتعلم أكثر";
+"common.i_understand" = "أنا أفهم";
 "common.description" = "وصف";
 "common.emoji" = "الرموز التعبيرية";
 "common.avatar" = "الصورة الرمزية";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "المعدل السنوي الذي تدفع به صفقات الشراء صفقات البيع (إذا كانت سلبية، تدفع صفقات البيع صفقات شراء). لا توجد رسوم مرتبطة بالتمويل، وهو عبارة عن تحويل من نظير إلى نظير بين المستخدمين لدفع الأسعار نحو السعر الفوري.";
 "info.minimum_amount.title" = "الحد الأدنى للمبلغ";
 "info.minimum_amount.description" = "على شبكة %@، الحد الأدنى لمبلغ هذه المعاملة هو %@.";
+"info.reminder_copying_secret_phrase.title" = "تذكير";
+"info.reminder_copying_secret_phrase.description1" = "أي شخص يمتلك العبارة السرية الخاصة بك سيتمكن من الوصول إلى محفظتك والتحكم الكامل في أموالك.";
+"info.reminder_copying_secret_phrase.description2" = "لا يستطيع Gem المساعدة في حال فقدان أي أموال بسبب مشاركة العبارة السرية.";
 "input.enter_amount_to" = "الرجاء إدخال المبلغ إلى %@";
 "nft.properties" = "ملكيات";
 "nft.collections" = "المجموعات";

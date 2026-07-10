@@ -41,6 +41,7 @@ common_unpinned_asset = Sabitleme kaldırıldı: %@
 common_skip = Atla
 common_warning = Uyarı
 common_learn_more = Daha fazla bilgi edin
+common_i_understand = Anlıyorum
 common_description = Tanım
 common_emoji = Emoji
 common_avatar = Avatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = Finansman APR'si
 info_perpetual_funding_apr_description = Uzun pozisyonların kısa pozisyon ödediği yıllık oran (negatifse kısa pozisyonların uzun pozisyon ödediği). Fiyatları spot fiyata doğru itmek için kullanıcılar arasında eşler arası transfer olan finansmanla ilgili herhangi bir ücret yoktur.
 info_minimum_amount_title = Asgari Tutar
 info_minimum_amount_description = %@ ağında, bu işlem için minimum tutar %@.
+info_reminder_copying_secret_phrase_title = Hatırlatma
+info_reminder_copying_secret_phrase_description1 = Gizli İfadenize sahip olan herkes cüzdanınıza erişebilir ve fonlarınız üzerinde tam kontrole sahip olur.
+info_reminder_copying_secret_phrase_description2 = Gizli İfadenizin paylaşılması nedeniyle herhangi bir fon kaybedilirse Gem yardımcı olamaz.
 
 # Input
 

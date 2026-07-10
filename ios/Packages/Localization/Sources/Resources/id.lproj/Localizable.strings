@@ -39,6 +39,7 @@
 "common.skip" = "Lewati";
 "common.warning" = "Peringatan";
 "common.learn_more" = "Pelajari lebih lanjut";
+"common.i_understand" = "Saya mengerti";
 "common.description" = "Keterangan";
 "common.emoji" = "Emoji";
 "common.avatar" = "Avatar";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "Tingkat tahunan di mana posisi long membayar posisi short (jika negatif, posisi short membayar posisi long). Tidak ada biaya yang terkait dengan pendanaan, yang merupakan transfer peer-to-peer antar pengguna untuk mendorong harga menuju harga spot.";
 "info.minimum_amount.title" = "Jumlah Minimum";
 "info.minimum_amount.description" = "Di jaringan %@, jumlah minimum untuk transaksi ini adalah %@.";
+"info.reminder_copying_secret_phrase.title" = "Pengingat";
+"info.reminder_copying_secret_phrase.description1" = "Siapa pun yang memiliki Frasa Rahasia Anda akan memiliki akses ke dompet Anda dan kendali penuh atas dana Anda.";
+"info.reminder_copying_secret_phrase.description2" = "Gem tidak dapat membantu jika ada dana yang hilang akibat membagikan Frasa Rahasia.";
 "input.enter_amount_to" = "Silakan masukkan jumlah ke %@";
 "nft.properties" = "Properti";
 "nft.collections" = "Koleksi";

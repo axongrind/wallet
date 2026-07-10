@@ -41,6 +41,7 @@
   <string name="common_skip">לְדַלֵג</string>
   <string name="common_warning">אַזהָרָה</string>
   <string name="common_learn_more">למידע נוסף</string>
+  <string name="common_i_understand">הבנתי</string>
   <string name="common_description">תֵאוּר</string>
   <string name="common_emoji">אימוג\'י</string>
   <string name="common_avatar">גִלגוּל</string>
@@ -467,6 +468,9 @@
   <string name="info_perpetual_funding_apr_description">השיעור השנתי שבו לונג משלם שורט (אם שלילי, שורט משלם לונג). אין עמלות הקשורות למימון, שהוא העברה עמית לעמית בין משתמשים כדי לדחוף את המחירים לכיוון מחיר הספוט.</string>
   <string name="info_minimum_amount_title">כמות מינימלית</string>
   <string name="info_minimum_amount_description">ברשת %1$s, הסכום המינימלי לעסקה זו הוא %2$s.</string>
+  <string name="info_reminder_copying_secret_phrase_title">תזכורת</string>
+  <string name="info_reminder_copying_secret_phrase_description1">לכל מי שיש לו את הביטוי הסודי שלך תהיה גישה לארנק שלך ושליטה מלאה על הכספים שלך.</string>
+  <string name="info_reminder_copying_secret_phrase_description2">Gem לא תוכל לעזור אם כספים יאבדו עקב שיתוף ביטוי סודי.</string>
   <string name="input_enter_amount_to">נא להזין סכום ל-%1$s</string>
   <string name="nft_properties">מאפיינים</string>
   <string name="nft_collections">אוספים</string>

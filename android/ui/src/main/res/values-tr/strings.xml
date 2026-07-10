@@ -41,6 +41,7 @@
   <string name="common_skip">Atla</string>
   <string name="common_warning">Uyarı</string>
   <string name="common_learn_more">Daha fazla bilgi edin</string>
+  <string name="common_i_understand">Anlıyorum</string>
   <string name="common_description">Tanım</string>
   <string name="common_emoji">Emoji</string>
   <string name="common_avatar">Avatar</string>
@@ -467,6 +468,9 @@
   <string name="info_perpetual_funding_apr_description">Uzun pozisyonların kısa pozisyon ödediği yıllık oran (negatifse kısa pozisyonların uzun pozisyon ödediği). Fiyatları spot fiyata doğru itmek için kullanıcılar arasında eşler arası transfer olan finansmanla ilgili herhangi bir ücret yoktur.</string>
   <string name="info_minimum_amount_title">Asgari Tutar</string>
   <string name="info_minimum_amount_description">%1$s ağında, bu işlem için minimum tutar %2$s.</string>
+  <string name="info_reminder_copying_secret_phrase_title">Hatırlatma</string>
+  <string name="info_reminder_copying_secret_phrase_description1">Gizli İfadenize sahip olan herkes cüzdanınıza erişebilir ve fonlarınız üzerinde tam kontrole sahip olur.</string>
+  <string name="info_reminder_copying_secret_phrase_description2">Gizli İfadenizin paylaşılması nedeniyle herhangi bir fon kaybedilirse Gem yardımcı olamaz.</string>
   <string name="input_enter_amount_to">Lütfen tutarı %1$s olarak girin</string>
   <string name="nft_properties">Özellikler</string>
   <string name="nft_collections">Koleksiyonlar</string>

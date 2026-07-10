@@ -39,6 +39,7 @@
 "common.skip" = "Pomiń";
 "common.warning" = "Ostrzeżenie";
 "common.learn_more" = "Dowiedz się więcej";
+"common.i_understand" = "Rozumiem";
 "common.description" = "Opis";
 "common.emoji" = "Emoji";
 "common.avatar" = "Awatar";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "Roczna stopa procentowa, według której pozycje długie opłacają pozycje krótkie (jeśli wartość ujemna, pozycje krótkie opłacają pozycje długie). Nie ma żadnych opłat związanych z finansowaniem, które stanowi transfer typu peer-to-peer pomiędzy użytkownikami w celu podniesienia cen w kierunku ceny spot.";
 "info.minimum_amount.title" = "Minimalna kwota";
 "info.minimum_amount.description" = "W sieci %@ minimalna kwota tej transakcji to %@.";
+"info.reminder_copying_secret_phrase.title" = "Przypomnienie";
+"info.reminder_copying_secret_phrase.description1" = "Każdy, kto ma Twoje Tajne zdanie, będzie miał dostęp do Twojego portfela i pełną kontrolę nad Twoimi środkami.";
+"info.reminder_copying_secret_phrase.description2" = "Gem nie jest w stanie pomóc w przypadku utraty jakichkolwiek środków w wyniku udostępnienia Tajnego zdania.";
 "input.enter_amount_to" = "Proszę wpisać kwotę do %@";
 "nft.properties" = "Właściwości";
 "nft.collections" = "Kolekcje";

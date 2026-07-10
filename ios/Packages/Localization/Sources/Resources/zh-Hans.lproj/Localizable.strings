@@ -39,6 +39,7 @@
 "common.skip" = "跳过";
 "common.warning" = "警告";
 "common.learn_more" = "了解更多";
+"common.i_understand" = "我明白了";
 "common.description" = "描述";
 "common.emoji" = "表情符号";
 "common.avatar" = "头像";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "多头支付空头的年化利率（如果为负，则空头支付多头）。融资不收取任何费用，融资是用户之间的点对点转账，旨在将价格推向现货价格。";
 "info.minimum_amount.title" = "最低金额";
 "info.minimum_amount.description" = "在 %@ 网络上，此交易的最低金额为 %@。";
+"info.reminder_copying_secret_phrase.title" = "提醒";
+"info.reminder_copying_secret_phrase.description1" = "任何拥有您秘密短语的人都将能够访问您的钱包并完全控制您的资金。";
+"info.reminder_copying_secret_phrase.description2" = "如果因分享秘密短语而导致任何资金损失，Gem 将无法提供帮助。";
 "input.enter_amount_to" = "输入%@的数量";
 "nft.properties" = "特性";
 "nft.collections" = "藏品集合";

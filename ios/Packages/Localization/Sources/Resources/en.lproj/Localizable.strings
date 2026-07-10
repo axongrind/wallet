@@ -39,6 +39,7 @@
 "common.skip" = "Skip";
 "common.warning" = "Warning";
 "common.learn_more" = "Learn More";
+"common.i_understand" = "I understand";
 "common.description" = "Description";
 "common.emoji" = "Emoji";
 "common.avatar" = "Avatar";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "The annualized rate at which longs pay shorts (if negative, shorts pay longs). There are no fees associated with funding, which is a peer-to-peer transfer between users to push prices towards the spot price.";
 "info.minimum_amount.title" = "Minimum Amount";
 "info.minimum_amount.description" = "On the %@ network, the minimum amount for this transaction is %@.";
+"info.reminder_copying_secret_phrase.title" = "Reminder";
+"info.reminder_copying_secret_phrase.description1" = "Anyone who has your Secret Phrase will have access to your wallet and full control over your funds.";
+"info.reminder_copying_secret_phrase.description2" = "Gem is unable to help if any funds are lost due to sharing a Secret Phrase.";
 "input.enter_amount_to" = "Please enter amount to %@";
 "nft.properties" = "Properties";
 "nft.collections" = "Collections";

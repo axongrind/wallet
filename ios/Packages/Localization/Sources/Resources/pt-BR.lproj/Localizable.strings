@@ -39,6 +39,7 @@
 "common.skip" = "Pular";
 "common.warning" = "Aviso";
 "common.learn_more" = "Saber mais";
+"common.i_understand" = "Eu entendo";
 "common.description" = "Descrição";
 "common.emoji" = "Emoji";
 "common.avatar" = "Avatar";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "A taxa anualizada pela qual as posições compradas pagam as posições vendidas (se for negativa, as posições vendidas pagam as posições compradas). Não há taxas associadas ao financiamento, que é uma transferência ponto a ponto entre usuários para empurrar os preços em direção ao preço à vista.";
 "info.minimum_amount.title" = "Quantidade Mínima";
 "info.minimum_amount.description" = "Na rede %@, o valor mínimo para esta transação é %@.";
+"info.reminder_copying_secret_phrase.title" = "Lembrete";
+"info.reminder_copying_secret_phrase.description1" = "Qualquer pessoa que tenha sua Frase secreta terá acesso à sua carteira e controle total sobre seus fundos.";
+"info.reminder_copying_secret_phrase.description2" = "A Gem não pode ajudar caso quaisquer fundos sejam perdidos devido ao compartilhamento de uma Frase secreta.";
 "input.enter_amount_to" = "Insira o valor em %@";
 "nft.properties" = "Propriedades";
 "nft.collections" = "Coleções";

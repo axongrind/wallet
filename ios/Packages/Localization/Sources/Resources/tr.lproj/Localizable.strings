@@ -39,6 +39,7 @@
 "common.skip" = "Atla";
 "common.warning" = "Uyarı";
 "common.learn_more" = "Daha fazla bilgi edin";
+"common.i_understand" = "Anlıyorum";
 "common.description" = "Tanım";
 "common.emoji" = "Emoji";
 "common.avatar" = "Avatar";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "Uzun pozisyonların kısa pozisyon ödediği yıllık oran (negatifse kısa pozisyonların uzun pozisyon ödediği). Fiyatları spot fiyata doğru itmek için kullanıcılar arasında eşler arası transfer olan finansmanla ilgili herhangi bir ücret yoktur.";
 "info.minimum_amount.title" = "Asgari Tutar";
 "info.minimum_amount.description" = "%@ ağında, bu işlem için minimum tutar %@.";
+"info.reminder_copying_secret_phrase.title" = "Hatırlatma";
+"info.reminder_copying_secret_phrase.description1" = "Gizli İfadenize sahip olan herkes cüzdanınıza erişebilir ve fonlarınız üzerinde tam kontrole sahip olur.";
+"info.reminder_copying_secret_phrase.description2" = "Gizli İfadenizin paylaşılması nedeniyle herhangi bir fon kaybedilirse Gem yardımcı olamaz.";
 "input.enter_amount_to" = "Lütfen tutarı %@ olarak girin";
 "nft.properties" = "Özellikler";
 "nft.collections" = "Koleksiyonlar";

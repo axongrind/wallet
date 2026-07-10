@@ -41,6 +41,7 @@ common_unpinned_asset = Frigjort: %@
 common_skip = Spring over
 common_warning = Advarsel
 common_learn_more = Lær mere
+common_i_understand = Jeg forstår
 common_description = Beskrivelse
 common_emoji = Emoji
 common_avatar = Avatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = Finansiering ÅOP
 info_perpetual_funding_apr_description = Den årlige sats, hvormed longs betaler shorts (hvis negative, shorts pay longs). Der er ingen gebyrer forbundet med finansiering, som er en peer-to-peer-overførsel mellem brugere for at presse priserne mod spotprisen.
 info_minimum_amount_title = Minimumsbeløb
 info_minimum_amount_description = På %@-netværket er minimumsbeløbet for denne transaktion %@.
+info_reminder_copying_secret_phrase_title = Påmindelse
+info_reminder_copying_secret_phrase_description1 = Enhver, der har din hemmelige sætning, vil have adgang til din tegnebog og fuld kontrol over dine midler.
+info_reminder_copying_secret_phrase_description2 = Gem kan ikke hjælpe, hvis midler går tabt på grund af deling af en hemmelig sætning.
 
 # Input
 

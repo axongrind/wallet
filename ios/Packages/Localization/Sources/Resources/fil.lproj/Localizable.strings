@@ -39,6 +39,7 @@
 "common.skip" = "Laktawan";
 "common.warning" = "Babala";
 "common.learn_more" = "Matuto pa";
+"common.i_understand" = "Naiintindihan ko";
 "common.description" = "Paglalarawan";
 "common.emoji" = "Emoji";
 "common.avatar" = "Avatar";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "Ang taunang rate kung saan nagbabayad ang longs ng shorts (kung negatibo, ang shorts ay nagbabayad ng longs). Walang mga bayarin na nauugnay sa pagpopondo, na isang peer-to-peer na paglipat sa pagitan ng mga user upang itulak ang mga presyo patungo sa presyo ng lugar.";
 "info.minimum_amount.title" = "Pinakamababang Halaga";
 "info.minimum_amount.description" = "Sa %@ network, ang minimum na halaga para sa transaksyong ito ay %@.";
+"info.reminder_copying_secret_phrase.title" = "Paalala";
+"info.reminder_copying_secret_phrase.description1" = "Sinumang mayroon ng iyong Lihim na Parirala ay magkakaroon ng access sa iyong wallet at ganap na kontrol sa iyong pondo.";
+"info.reminder_copying_secret_phrase.description2" = "Hindi makakatulong ang Gem kung may mawawalang pondo dahil sa pagbabahagi ng Lihim na Parirala.";
 "input.enter_amount_to" = "Mangyaring magpasok ng halaga sa %@";
 "nft.properties" = "Mga Katangian";
 "nft.collections" = "Mga koleksyon";

@@ -41,6 +41,7 @@ common_unpinned_asset = Fixare anulată: %@
 common_skip = Sari peste
 common_warning = Avertizare
 common_learn_more = Aflați mai multe
+common_i_understand = Am înțeles
 common_description = Descriere
 common_emoji = Emoji
 common_avatar = Avatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = APR finanțare
 info_perpetual_funding_apr_description = Rata anualizată la care plățile lungi plătesc scurt-uri (dacă este negativ, scurt-urile plătesc lungi). Nu există taxe asociate cu finanțarea, care este un transfer peer-to-peer între utilizatori pentru a împinge prețurile către prețul spot.
 info_minimum_amount_title = Suma minima
 info_minimum_amount_description = În rețeaua %@, suma minimă pentru această tranzacție este %@.
+info_reminder_copying_secret_phrase_title = Memento
+info_reminder_copying_secret_phrase_description1 = Oricine are Fraza dvs. secretă va avea acces la portofelul dvs. și control total asupra fondurilor dvs.
+info_reminder_copying_secret_phrase_description2 = Gem nu poate ajuta dacă vreun fond este pierdut din cauza partajării unei Fraze secrete.
 
 # Input
 

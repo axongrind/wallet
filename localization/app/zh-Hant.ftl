@@ -41,6 +41,7 @@ common_unpinned_asset = 已取消置頂：%@
 common_skip = 跳過
 common_warning = 警告
 common_learn_more = 了解更多
+common_i_understand = 我明白了
 common_description = 描述
 common_emoji = 表情符號
 common_avatar = 頭像
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = 資金費率年化
 info_perpetual_funding_apr_description = 多頭支付空頭的年化利率（如果為負，則空頭支付多頭）。融資不收取任何費用，融資是用戶之間的點對點轉賬，旨在將價格推向現貨價格。
 info_minimum_amount_title = 最低金額
 info_minimum_amount_description = 在 %@ 網路上，此交易的最低金額為 %@。
+info_reminder_copying_secret_phrase_title = 提醒
+info_reminder_copying_secret_phrase_description1 = 任何擁有您秘密短語的人都將能夠存取您的錢包並完全控制您的資金。
+info_reminder_copying_secret_phrase_description2 = 如果因分享秘密短語而導致任何資金損失，Gem 將無法提供協助。
 
 # Input
 

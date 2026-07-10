@@ -41,6 +41,7 @@
   <string name="common_skip">Lewati</string>
   <string name="common_warning">Peringatan</string>
   <string name="common_learn_more">Pelajari lebih lanjut</string>
+  <string name="common_i_understand">Saya mengerti</string>
   <string name="common_description">Keterangan</string>
   <string name="common_emoji">Emoji</string>
   <string name="common_avatar">Avatar</string>
@@ -467,6 +468,9 @@
   <string name="info_perpetual_funding_apr_description">Tingkat tahunan di mana posisi long membayar posisi short (jika negatif, posisi short membayar posisi long). Tidak ada biaya yang terkait dengan pendanaan, yang merupakan transfer peer-to-peer antar pengguna untuk mendorong harga menuju harga spot.</string>
   <string name="info_minimum_amount_title">Jumlah Minimum</string>
   <string name="info_minimum_amount_description">Di jaringan %1$s, jumlah minimum untuk transaksi ini adalah %2$s.</string>
+  <string name="info_reminder_copying_secret_phrase_title">Pengingat</string>
+  <string name="info_reminder_copying_secret_phrase_description1">Siapa pun yang memiliki Frasa Rahasia Anda akan memiliki akses ke dompet Anda dan kendali penuh atas dana Anda.</string>
+  <string name="info_reminder_copying_secret_phrase_description2">Gem tidak dapat membantu jika ada dana yang hilang akibat membagikan Frasa Rahasia.</string>
   <string name="input_enter_amount_to">Silakan masukkan jumlah ke %1$s</string>
   <string name="nft_properties">Properti</string>
   <string name="nft_collections">Koleksi</string>

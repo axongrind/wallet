@@ -39,6 +39,7 @@
 "common.skip" = "Ruka";
 "common.warning" = "Onyo";
 "common.learn_more" = "Jifunze Zaidi";
+"common.i_understand" = "Ninaelewa";
 "common.description" = "Maelezo";
 "common.emoji" = "Emoji";
 "common.avatar" = "Avatar";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "Kiwango cha kila mwaka ambacho nafasi ndefu hulipa nafasi fupi (ikiwa hasi, nafasi fupi hulipa nafasi ndefu). Hakuna ada zinazohusishwa na ufadhili, ambao ni uhamishaji kati ya watumiaji ili kusukuma bei kuelekea bei inayotarajiwa.";
 "info.minimum_amount.title" = "Kiasi cha Chini";
 "info.minimum_amount.description" = "Kwenye mtandao wa %@, kiasi cha chini kwa muamala huu ni %@.";
+"info.reminder_copying_secret_phrase.title" = "Ukumbusho";
+"info.reminder_copying_secret_phrase.description1" = "Mtu yeyote aliye na Kifungu chako cha Siri atakuwa na ufikiaji wa pochi yako na udhibiti kamili wa fedha zako.";
+"info.reminder_copying_secret_phrase.description2" = "Gem haiwezi kusaidia iwapo fedha zozote zitapotea kutokana na kushiriki Kifungu cha Siri.";
 "input.enter_amount_to" = "Tafadhali weka kiasi hadi %@";
 "nft.properties" = "Mali";
 "nft.collections" = "Mikusanyiko";

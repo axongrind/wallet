@@ -41,6 +41,7 @@ common_unpinned_asset = अनपिन किया गया: %@
 common_skip = छोडना
 common_warning = चेतावनी
 common_learn_more = और अधिक जानें
+common_i_understand = मैं समझता हूँ
 common_description = विवरण
 common_emoji = इमोजी
 common_avatar = अवतार
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = फंडिंग एपीआर
 info_perpetual_funding_apr_description = वार्षिक दर जिस पर लॉन्ग शॉर्ट्स को भुगतान करते हैं (यदि नकारात्मक, शॉर्ट्स लॉन्ग्स को भुगतान करते हैं)। फंडिंग से जुड़ी कोई फीस नहीं है, जो कीमतों को स्पॉट कीमत की ओर बढ़ाने के लिए उपयोगकर्ताओं के बीच एक पीयर-टू-पीयर ट्रांसफर है।
 info_minimum_amount_title = न्यूनतम राशि
 info_minimum_amount_description = %@ नेटवर्क पर, इस लेनदेन की न्यूनतम राशि %@ है।
+info_reminder_copying_secret_phrase_title = अनुस्मारक
+info_reminder_copying_secret_phrase_description1 = जिस किसी के पास आपका गुप्त वाक्यांश होगा, उसे आपके वॉलेट तक पहुँच और आपके धन पर पूर्ण नियंत्रण प्राप्त होगा।
+info_reminder_copying_secret_phrase_description2 = यदि गुप्त वाक्यांश साझा करने के कारण कोई धन खो जाता है, तो Gem मदद करने में असमर्थ है।
 
 # Input
 

@@ -39,6 +39,7 @@
 "common.skip" = "ข้าม";
 "common.warning" = "คำเตือน";
 "common.learn_more" = "เรียนรู้เพิ่มเติม";
+"common.i_understand" = "ฉันเข้าใจ";
 "common.description" = "คำอธิบาย";
 "common.emoji" = "อิโมจิ";
 "common.avatar" = "อวตาร";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "อัตรารายปีที่สัญญา Long จ่าย Short (หากติดลบ Short จะจ่าย Long) ไม่มีค่าธรรมเนียมที่เกี่ยวข้องกับการระดมทุน ซึ่งเป็นการโอนแบบเพียร์ทูเพียร์ระหว่างผู้ใช้เพื่อดันราคาไปสู่ราคาสปอต";
 "info.minimum_amount.title" = "จำนวนเงินขั้นต่ำ";
 "info.minimum_amount.description" = "บนเครือข่าย %@ จำนวนขั้นต่ำสำหรับธุรกรรมนี้คือ %@";
+"info.reminder_copying_secret_phrase.title" = "ข้อเตือนใจ";
+"info.reminder_copying_secret_phrase.description1" = "ใครก็ตามที่มีวลีลับของคุณจะสามารถเข้าถึงกระเป๋าเงินของคุณและควบคุมเงินทุนของคุณได้อย่างเต็มที่";
+"info.reminder_copying_secret_phrase.description2" = "Gem ไม่สามารถช่วยเหลือได้หากมีเงินทุนสูญหายเนื่องจากการแบ่งปันวลีลับ";
 "input.enter_amount_to" = "กรุณากรอกจำนวนเงินเป็น %@";
 "nft.properties" = "คุณสมบัติ";
 "nft.collections" = "คอลเลคชั่น";

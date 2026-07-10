@@ -41,6 +41,7 @@
   <string name="common_skip">Skip</string>
   <string name="common_warning">Warning</string>
   <string name="common_learn_more">Learn More</string>
+  <string name="common_i_understand">I understand</string>
   <string name="common_description">Description</string>
   <string name="common_emoji">Emoji</string>
   <string name="common_avatar">Avatar</string>
@@ -467,6 +468,9 @@
   <string name="info_perpetual_funding_apr_description">The annualized rate at which longs pay shorts (if negative, shorts pay longs). There are no fees associated with funding, which is a peer-to-peer transfer between users to push prices towards the spot price.</string>
   <string name="info_minimum_amount_title">Minimum Amount</string>
   <string name="info_minimum_amount_description">On the %1$s network, the minimum amount for this transaction is %2$s.</string>
+  <string name="info_reminder_copying_secret_phrase_title">Reminder</string>
+  <string name="info_reminder_copying_secret_phrase_description1">Anyone who has your Secret Phrase will have access to your wallet and full control over your funds.</string>
+  <string name="info_reminder_copying_secret_phrase_description2">Gem is unable to help if any funds are lost due to sharing a Secret Phrase.</string>
   <string name="input_enter_amount_to">Please enter amount to %1$s</string>
   <string name="nft_properties">Properties</string>
   <string name="nft_collections">Collections</string>

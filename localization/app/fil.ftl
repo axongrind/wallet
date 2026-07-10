@@ -41,6 +41,7 @@ common_unpinned_asset = Na-unpin: %@
 common_skip = Laktawan
 common_warning = Babala
 common_learn_more = Matuto pa
+common_i_understand = Naiintindihan ko
 common_description = Paglalarawan
 common_emoji = Emoji
 common_avatar = Avatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = Pagpopondo sa APR
 info_perpetual_funding_apr_description = Ang taunang rate kung saan nagbabayad ang longs ng shorts (kung negatibo, ang shorts ay nagbabayad ng longs). Walang mga bayarin na nauugnay sa pagpopondo, na isang peer-to-peer na paglipat sa pagitan ng mga user upang itulak ang mga presyo patungo sa presyo ng lugar.
 info_minimum_amount_title = Pinakamababang Halaga
 info_minimum_amount_description = Sa %@ network, ang minimum na halaga para sa transaksyong ito ay %@.
+info_reminder_copying_secret_phrase_title = Paalala
+info_reminder_copying_secret_phrase_description1 = Sinumang mayroon ng iyong Lihim na Parirala ay magkakaroon ng access sa iyong wallet at ganap na kontrol sa iyong pondo.
+info_reminder_copying_secret_phrase_description2 = Hindi makakatulong ang Gem kung may mawawalang pondo dahil sa pagbabahagi ng Lihim na Parirala.
 
 # Input
 

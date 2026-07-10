@@ -41,6 +41,7 @@ common_unpinned_asset = تمت إزالة التثبيت: %@
 common_skip = يتخطى
 common_warning = تحذير
 common_learn_more = يتعلم أكثر
+common_i_understand = أنا أفهم
 common_description = وصف
 common_emoji = الرموز التعبيرية
 common_avatar = الصورة الرمزية
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = APR التمويل
 info_perpetual_funding_apr_description = المعدل السنوي الذي تدفع به صفقات الشراء صفقات البيع (إذا كانت سلبية، تدفع صفقات البيع صفقات شراء). لا توجد رسوم مرتبطة بالتمويل، وهو عبارة عن تحويل من نظير إلى نظير بين المستخدمين لدفع الأسعار نحو السعر الفوري.
 info_minimum_amount_title = الحد الأدنى للمبلغ
 info_minimum_amount_description = على شبكة %@، الحد الأدنى لمبلغ هذه المعاملة هو %@.
+info_reminder_copying_secret_phrase_title = تذكير
+info_reminder_copying_secret_phrase_description1 = أي شخص يمتلك العبارة السرية الخاصة بك سيتمكن من الوصول إلى محفظتك والتحكم الكامل في أموالك.
+info_reminder_copying_secret_phrase_description2 = لا يستطيع Gem المساعدة في حال فقدان أي أموال بسبب مشاركة العبارة السرية.
 
 # Input
 

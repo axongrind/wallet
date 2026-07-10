@@ -41,6 +41,7 @@
   <string name="common_skip">يتخطى</string>
   <string name="common_warning">تحذير</string>
   <string name="common_learn_more">يتعلم أكثر</string>
+  <string name="common_i_understand">أنا أفهم</string>
   <string name="common_description">وصف</string>
   <string name="common_emoji">الرموز التعبيرية</string>
   <string name="common_avatar">الصورة الرمزية</string>
@@ -467,6 +468,9 @@
   <string name="info_perpetual_funding_apr_description">المعدل السنوي الذي تدفع به صفقات الشراء صفقات البيع (إذا كانت سلبية، تدفع صفقات البيع صفقات شراء). لا توجد رسوم مرتبطة بالتمويل، وهو عبارة عن تحويل من نظير إلى نظير بين المستخدمين لدفع الأسعار نحو السعر الفوري.</string>
   <string name="info_minimum_amount_title">الحد الأدنى للمبلغ</string>
   <string name="info_minimum_amount_description">على شبكة %1$s، الحد الأدنى لمبلغ هذه المعاملة هو %2$s.</string>
+  <string name="info_reminder_copying_secret_phrase_title">تذكير</string>
+  <string name="info_reminder_copying_secret_phrase_description1">أي شخص يمتلك العبارة السرية الخاصة بك سيتمكن من الوصول إلى محفظتك والتحكم الكامل في أموالك.</string>
+  <string name="info_reminder_copying_secret_phrase_description2">لا يستطيع Gem المساعدة في حال فقدان أي أموال بسبب مشاركة العبارة السرية.</string>
   <string name="input_enter_amount_to">الرجاء إدخال المبلغ إلى %1$s</string>
   <string name="nft_properties">ملكيات</string>
   <string name="nft_collections">المجموعات</string>

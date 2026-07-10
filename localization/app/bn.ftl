@@ -41,6 +41,7 @@ common_unpinned_asset = আনপিন করা হয়েছে: %@
 common_skip = এড়িয়ে যান
 common_warning = সতর্কতা
 common_learn_more = আরও জানুন
+common_i_understand = আমি বুঝেছি
 common_description = বর্ণনা
 common_emoji = ইমোজি
 common_avatar = অবতার
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = ফান্ডিং APR
 info_perpetual_funding_apr_description = বার্ষিক হারে লংস শর্টস প্রদান করে (যদি নেতিবাচক, শর্টস লং পে করে)। তহবিলের সাথে সম্পর্কিত কোন ফি নেই, যা স্পট প্রাইসের দিকে দাম ঠেলে দেওয়ার জন্য ব্যবহারকারীদের মধ্যে পিয়ার-টু-পিয়ার স্থানান্তর।
 info_minimum_amount_title = ন্যূনতম পরিমাণ
 info_minimum_amount_description = %@ নেটওয়ার্কে, এই লেনদেনের ন্যূনতম পরিমাণ %@।
+info_reminder_copying_secret_phrase_title = অনুস্মারক
+info_reminder_copying_secret_phrase_description1 = যার কাছে আপনার গোপন বাক্যাংশ থাকবে সে আপনার ওয়ালেটে প্রবেশ করতে এবং আপনার তহবিলের উপর সম্পূর্ণ নিয়ন্ত্রণ পাবে।
+info_reminder_copying_secret_phrase_description2 = গোপন বাক্যাংশ শেয়ার করার কারণে কোনো তহবিল হারিয়ে গেলে Gem সাহায্য করতে অক্ষম।
 
 # Input
 

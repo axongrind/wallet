@@ -41,6 +41,7 @@
   <string name="common_skip">Overslaan</string>
   <string name="common_warning">Waarschuwing</string>
   <string name="common_learn_more">Meer informatie</string>
+  <string name="common_i_understand">Ik begrijp het</string>
   <string name="common_description">Beschrijving</string>
   <string name="common_emoji">Emoji</string>
   <string name="common_avatar">Avatar</string>
@@ -467,6 +468,9 @@
   <string name="info_perpetual_funding_apr_description">Het op jaarbasis berekende percentage waarmee longs shorts betalen (indien negatief, shorts betalen longs). Er zijn geen kosten verbonden aan financiering, wat een peer-to-peer overdracht tussen gebruikers is om de prijzen richting de spotprijs te duwen.</string>
   <string name="info_minimum_amount_title">Minimumbedrag</string>
   <string name="info_minimum_amount_description">Op het %1$s-netwerk is het minimumbedrag voor deze transactie %2$s.</string>
+  <string name="info_reminder_copying_secret_phrase_title">Herinnering</string>
+  <string name="info_reminder_copying_secret_phrase_description1">Iedereen die je Geheime zin heeft, krijgt toegang tot je wallet en volledige controle over je tegoeden.</string>
+  <string name="info_reminder_copying_secret_phrase_description2">Gem kan niet helpen als er tegoeden verloren gaan door het delen van een Geheime zin.</string>
   <string name="input_enter_amount_to">Voer het bedrag in om te %1$s</string>
   <string name="nft_properties">Eigenschappen</string>
   <string name="nft_collections">Collecties</string>

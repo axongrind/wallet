@@ -41,6 +41,7 @@ common_unpinned_asset = Đã bỏ ghim: %@
 common_skip = Bỏ qua
 common_warning = Cảnh báo
 common_learn_more = Tìm hiểu thêm
+common_i_understand = Tôi hiểu
 common_description = Sự miêu tả
 common_emoji = Emoji
 common_avatar = Hình đại diện
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = APR tài trợ
 info_perpetual_funding_apr_description = Tỷ lệ hàng năm mà người mua trả tiền cho người bán (nếu âm, người bán trả tiền cho người mua). Không có phí liên quan đến tài trợ, đó là chuyển khoản ngang hàng giữa những người dùng để đẩy giá về giá giao ngay.
 info_minimum_amount_title = Số tiền tối thiểu
 info_minimum_amount_description = Trên mạng %@, số tiền tối thiểu cho giao dịch này là %@.
+info_reminder_copying_secret_phrase_title = Nhắc nhở
+info_reminder_copying_secret_phrase_description1 = Bất kỳ ai có Cụm từ bí mật của bạn sẽ có quyền truy cập vào ví của bạn và toàn quyền kiểm soát tiền của bạn.
+info_reminder_copying_secret_phrase_description2 = Gem không thể trợ giúp nếu bất kỳ khoản tiền nào bị mất do chia sẻ Cụm từ bí mật.
 
 # Input
 

@@ -41,6 +41,7 @@
   <string name="common_skip">Přeskočit</string>
   <string name="common_warning">Varování</string>
   <string name="common_learn_more">Další informace</string>
+  <string name="common_i_understand">Rozumím</string>
   <string name="common_description">Popis</string>
   <string name="common_emoji">Emoji</string>
   <string name="common_avatar">Avatar</string>
@@ -467,6 +468,9 @@
   <string name="info_perpetual_funding_apr_description">Anualizovaná sazba, jakou longs platí shorts (pokud jsou záporné, shorts platí longs). S financováním nejsou spojeny žádné poplatky, což je peer-to-peer převod mezi uživateli za účelem tlačení cen směrem k spotové ceně.</string>
   <string name="info_minimum_amount_title">Minimální částka</string>
   <string name="info_minimum_amount_description">V síti %1$s je minimální částka pro tuto transakci %2$s.</string>
+  <string name="info_reminder_copying_secret_phrase_title">Připomenutí</string>
+  <string name="info_reminder_copying_secret_phrase_description1">Kdokoli, kdo má vaši tajnou frázi, získá přístup k vaší peněžence a plnou kontrolu nad vašimi prostředky.</string>
+  <string name="info_reminder_copying_secret_phrase_description2">Gem nemůže pomoci, pokud dojde ke ztrátě jakýchkoli prostředků kvůli sdílení tajné fráze.</string>
   <string name="input_enter_amount_to">Zadejte částku do %1$s</string>
   <string name="nft_properties">Vlastnosti</string>
   <string name="nft_collections">Sbírky</string>

@@ -39,6 +39,7 @@
 "common.skip" = "Přeskočit";
 "common.warning" = "Varování";
 "common.learn_more" = "Další informace";
+"common.i_understand" = "Rozumím";
 "common.description" = "Popis";
 "common.emoji" = "Emoji";
 "common.avatar" = "Avatar";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "Anualizovaná sazba, jakou longs platí shorts (pokud jsou záporné, shorts platí longs). S financováním nejsou spojeny žádné poplatky, což je peer-to-peer převod mezi uživateli za účelem tlačení cen směrem k spotové ceně.";
 "info.minimum_amount.title" = "Minimální částka";
 "info.minimum_amount.description" = "V síti %@ je minimální částka pro tuto transakci %@.";
+"info.reminder_copying_secret_phrase.title" = "Připomenutí";
+"info.reminder_copying_secret_phrase.description1" = "Kdokoli, kdo má vaši tajnou frázi, získá přístup k vaší peněžence a plnou kontrolu nad vašimi prostředky.";
+"info.reminder_copying_secret_phrase.description2" = "Gem nemůže pomoci, pokud dojde ke ztrátě jakýchkoli prostředků kvůli sdílení tajné fráze.";
 "input.enter_amount_to" = "Zadejte částku do %@";
 "nft.properties" = "Vlastnosti";
 "nft.collections" = "Sbírky";

@@ -41,6 +41,7 @@
   <string name="common_skip">Laktawan</string>
   <string name="common_warning">Babala</string>
   <string name="common_learn_more">Matuto pa</string>
+  <string name="common_i_understand">Naiintindihan ko</string>
   <string name="common_description">Paglalarawan</string>
   <string name="common_emoji">Emoji</string>
   <string name="common_avatar">Avatar</string>
@@ -467,6 +468,9 @@
   <string name="info_perpetual_funding_apr_description">Ang taunang rate kung saan nagbabayad ang longs ng shorts (kung negatibo, ang shorts ay nagbabayad ng longs). Walang mga bayarin na nauugnay sa pagpopondo, na isang peer-to-peer na paglipat sa pagitan ng mga user upang itulak ang mga presyo patungo sa presyo ng lugar.</string>
   <string name="info_minimum_amount_title">Pinakamababang Halaga</string>
   <string name="info_minimum_amount_description">Sa %1$s network, ang minimum na halaga para sa transaksyong ito ay %2$s.</string>
+  <string name="info_reminder_copying_secret_phrase_title">Paalala</string>
+  <string name="info_reminder_copying_secret_phrase_description1">Sinumang mayroon ng iyong Lihim na Parirala ay magkakaroon ng access sa iyong wallet at ganap na kontrol sa iyong pondo.</string>
+  <string name="info_reminder_copying_secret_phrase_description2">Hindi makakatulong ang Gem kung may mawawalang pondo dahil sa pagbabahagi ng Lihim na Parirala.</string>
   <string name="input_enter_amount_to">Mangyaring magpasok ng halaga sa %1$s</string>
   <string name="nft_properties">Mga Katangian</string>
   <string name="nft_collections">Mga koleksyon</string>

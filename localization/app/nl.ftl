@@ -41,6 +41,7 @@ common_unpinned_asset = Losgemaakt: %@
 common_skip = Overslaan
 common_warning = Waarschuwing
 common_learn_more = Meer informatie
+common_i_understand = Ik begrijp het
 common_description = Beschrijving
 common_emoji = Emoji
 common_avatar = Avatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = Funding APR
 info_perpetual_funding_apr_description = Het op jaarbasis berekende percentage waarmee longs shorts betalen (indien negatief, shorts betalen longs). Er zijn geen kosten verbonden aan financiering, wat een peer-to-peer overdracht tussen gebruikers is om de prijzen richting de spotprijs te duwen.
 info_minimum_amount_title = Minimumbedrag
 info_minimum_amount_description = Op het %@-netwerk is het minimumbedrag voor deze transactie %@.
+info_reminder_copying_secret_phrase_title = Herinnering
+info_reminder_copying_secret_phrase_description1 = Iedereen die je Geheime zin heeft, krijgt toegang tot je wallet en volledige controle over je tegoeden.
+info_reminder_copying_secret_phrase_description2 = Gem kan niet helpen als er tegoeden verloren gaan door het delen van een Geheime zin.
 
 # Input
 

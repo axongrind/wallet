@@ -41,6 +41,7 @@ common_unpinned_asset = Откреплено: %@
 common_skip = Пропустить
 common_warning = Предупреждение
 common_learn_more = Узнать больше
+common_i_understand = Я понимаю
 common_description = Описание
 common_emoji = Эмодзи
 common_avatar = Аватар
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = Финансирование годовых
 info_perpetual_funding_apr_description = Годовая ставка, по которой длинные позиции платят коротким позициям (если она отрицательная, короткие позиции платят длинным позициям). Никаких комиссий, связанных с финансированием, которое представляет собой одноранговую передачу между пользователями для подталкивания цен к спотовой цене.
 info_minimum_amount_title = Минимальная сумма
 info_minimum_amount_description = В сети %@ минимальная сумма для этой транзакции составляет %@.
+info_reminder_copying_secret_phrase_title = Напоминание
+info_reminder_copying_secret_phrase_description1 = Любой, у кого есть ваша Секретная фраза, получит доступ к вашему кошельку и полный контроль над вашими средствами.
+info_reminder_copying_secret_phrase_description2 = Gem не сможет помочь, если какие-либо средства будут потеряны из-за передачи Секретной фразы.
 
 # Input
 

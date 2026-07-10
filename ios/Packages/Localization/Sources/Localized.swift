@@ -267,6 +267,8 @@ public enum Localized {
     public static let getStarted = Localized.tr("Localizable", "common.get_started", fallback: "Get Started")
     /// Hide
     public static let hide = Localized.tr("Localizable", "common.hide", fallback: "Hide")
+    /// I understand
+    public static let iUnderstand = Localized.tr("Localizable", "common.i_understand", fallback: "I understand")
     /// Info
     public static let info = Localized.tr("Localizable", "common.info", fallback: "Info")
     /// %d ms
@@ -662,6 +664,14 @@ public enum Localized {
     public enum PriceImpact {
       /// Price impact is the change in token price caused by your trade size. Higher price impact means you receive fewer tokens due to low liquidity or a large order size.
       public static let description = Localized.tr("Localizable", "info.price_impact.description", fallback: "Price impact is the change in token price caused by your trade size. Higher price impact means you receive fewer tokens due to low liquidity or a large order size.")
+    }
+    public enum ReminderCopyingSecretPhrase {
+      /// Anyone who has your Secret Phrase will have access to your wallet and full control over your funds.
+      public static let description1 = Localized.tr("Localizable", "info.reminder_copying_secret_phrase.description1", fallback: "Anyone who has your Secret Phrase will have access to your wallet and full control over your funds.")
+      /// Gem is unable to help if any funds are lost due to sharing a Secret Phrase.
+      public static let description2 = Localized.tr("Localizable", "info.reminder_copying_secret_phrase.description2", fallback: "Gem is unable to help if any funds are lost due to sharing a Secret Phrase.")
+      /// Reminder
+      public static let title = Localized.tr("Localizable", "info.reminder_copying_secret_phrase.title", fallback: "Reminder")
     }
     public enum Slippage {
       /// Slippage refers to the difference between the expected price of a trade and the actual price at which it is executed.

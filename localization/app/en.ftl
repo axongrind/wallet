@@ -87,6 +87,8 @@ common_skip = Skip
 common_warning = Warning
 # Used in shared app UI for the learn more label.
 common_learn_more = Learn More
+# Used in shared app UI to acknowledge and dismiss an informational message.
+common_i_understand = I understand
 # Used in shared app UI for the short name label.
 # Used in shared app UI as a description.
 common_description = Description
@@ -1054,6 +1056,12 @@ info_perpetual_funding_apr_description = The annualized rate at which longs pay 
 info_minimum_amount_title = Minimum Amount
 # Transfer minimum amount info sheet. First %@ is the network name, second %@ is the minimum amount.
 info_minimum_amount_description = On the %@ network, the minimum amount for this transaction is %@.
+# Used in Info bottom sheets for the reminder when copying the Secret Phrase title.
+info_reminder_copying_secret_phrase_title = Reminder
+# Used in Info bottom sheets for the reminder when copying the Secret Phrase description. First paragraph, joined with the second by a new line.
+info_reminder_copying_secret_phrase_description1 = Anyone who has your Secret Phrase will have access to your wallet and full control over your funds.
+# Used in Info bottom sheets for the reminder when copying the Secret Phrase description. Second paragraph, joined with the first by a new line.
+info_reminder_copying_secret_phrase_description2 = Gem is unable to help if any funds are lost due to sharing a Secret Phrase.
 
 # Input
 

@@ -41,6 +41,7 @@ common_unpinned_asset = ピン解除済み: %@
 common_skip = スキップ
 common_warning = 警告
 common_learn_more = もっと詳しく知る
+common_i_understand = 理解しました
 common_description = 説明
 common_emoji = 絵文字
 common_avatar = アバター
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = 資金調達APR
 info_perpetual_funding_apr_description = ロングがショートに支払う年率 (マイナスの場合、ショートがロングに支払う)。価格をスポット価格に近づけるためのユーザー間のピアツーピア転送である資金調達に関連する手数料はありません。
 info_minimum_amount_title = 最低金額
 info_minimum_amount_description = %@ ネットワークで、この取引の最低金額は %@ です。
+info_reminder_copying_secret_phrase_title = ご注意
+info_reminder_copying_secret_phrase_description1 = 秘密のフレーズを知っている人は誰でも、あなたのウォレットにアクセスし、資金を完全に管理できるようになります。
+info_reminder_copying_secret_phrase_description2 = 秘密のフレーズを共有したことによって資金が失われた場合、Gem では対応できません。
 
 # Input
 

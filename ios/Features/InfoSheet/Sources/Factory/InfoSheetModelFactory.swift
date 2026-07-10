@@ -217,6 +217,16 @@ public enum InfoSheetModelFactory {
                 description: Localized.Info.MaxSupply.description,
                 image: .image(Images.Logo.logo),
             )
+        case let .reminderCopyingSecretPhrase(action):
+            return InfoSheetModel(
+                title: Localized.Info.ReminderCopyingSecretPhrase.title,
+                description: [
+                    Localized.Info.ReminderCopyingSecretPhrase.description1,
+                    Localized.Info.ReminderCopyingSecretPhrase.description2,
+                ].joined(separator: "\n"),
+                image: .image(Images.Info.warning),
+                button: .action(title: Localized.Common.iUnderstand, action: action),
+            )
         }
     }
 

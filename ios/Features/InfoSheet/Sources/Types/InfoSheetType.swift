@@ -45,6 +45,8 @@ public enum InfoSheetType: Identifiable, Sendable, Equatable {
     case circulatingSupply
     case totalSupply
     case maxSupply
+    // security
+    case reminderCopyingSecretPhrase(action: InfoSheetAction)
 
     public var id: String {
         switch self {
@@ -75,6 +77,7 @@ public enum InfoSheetType: Identifiable, Sendable, Equatable {
         case .circulatingSupply: "circulatingSupply"
         case .totalSupply: "totalSupply"
         case .maxSupply: "maxSupply"
+        case .reminderCopyingSecretPhrase: "reminderCopyingSecretPhrase"
         }
     }
 

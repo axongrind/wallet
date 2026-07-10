@@ -39,6 +39,7 @@
 "common.skip" = "Overslaan";
 "common.warning" = "Waarschuwing";
 "common.learn_more" = "Meer informatie";
+"common.i_understand" = "Ik begrijp het";
 "common.description" = "Beschrijving";
 "common.emoji" = "Emoji";
 "common.avatar" = "Avatar";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "Het op jaarbasis berekende percentage waarmee longs shorts betalen (indien negatief, shorts betalen longs). Er zijn geen kosten verbonden aan financiering, wat een peer-to-peer overdracht tussen gebruikers is om de prijzen richting de spotprijs te duwen.";
 "info.minimum_amount.title" = "Minimumbedrag";
 "info.minimum_amount.description" = "Op het %@-netwerk is het minimumbedrag voor deze transactie %@.";
+"info.reminder_copying_secret_phrase.title" = "Herinnering";
+"info.reminder_copying_secret_phrase.description1" = "Iedereen die je Geheime zin heeft, krijgt toegang tot je wallet en volledige controle over je tegoeden.";
+"info.reminder_copying_secret_phrase.description2" = "Gem kan niet helpen als er tegoeden verloren gaan door het delen van een Geheime zin.";
 "input.enter_amount_to" = "Voer het bedrag in om te %@";
 "nft.properties" = "Eigenschappen";
 "nft.collections" = "Collecties";

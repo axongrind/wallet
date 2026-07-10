@@ -41,6 +41,7 @@ common_unpinned_asset = An cire: %@
 common_skip = Tsallake
 common_warning = Gargadi
 common_learn_more = Ƙara Koyi
+common_i_understand = Na fahimta
 common_description = Bayani
 common_emoji = Emoji
 common_avatar = Avatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = Tallafin APR
 info_perpetual_funding_apr_description = Matsakaicin adadin shekara-shekara wanda masu doguwa ke biyan masu gajere (idan mara kyau, masu gajere suna biyan masu doguwa). Babu wasu kudade da ke da alaƙa da kudade, wanda shine canja wuri tsakanin-tsara tsakanin masu amfani don tura farashin zuwa farashin tabo.
 info_minimum_amount_title = Mafi ƙarancin kuɗi
 info_minimum_amount_description = A kan hanyar sadarwar %@, mafi ƙarancin adadin wannan ma'amala shi ne %@.
+info_reminder_copying_secret_phrase_title = Tunatarwa
+info_reminder_copying_secret_phrase_description1 = Duk wanda ke da Kalmomin Sirri naka zai sami damar shiga walat ɗinka da cikakken iko a kan kuɗaɗenka.
+info_reminder_copying_secret_phrase_description2 = Gem ba zai iya taimakawa ba idan aka rasa wani kuɗi saboda raba Kalmomin Sirri.
 
 # Input
 

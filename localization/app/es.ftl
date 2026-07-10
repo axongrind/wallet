@@ -41,6 +41,7 @@ common_unpinned_asset = Desfijado: %@
 common_skip = Saltar
 common_warning = Advertencia
 common_learn_more = Más información
+common_i_understand = Lo entiendo
 common_description = Descripción
 common_emoji = Emoji
 common_avatar = Avatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = TAE de financiación
 info_perpetual_funding_apr_description = La tasa anualizada a la que los largos pagan a los cortos (si es negativa, los cortos pagan a los largos). No hay tarifas asociadas con la financiación, que es una transferencia de igual a igual entre usuarios para impulsar los precios hacia el precio al contado.
 info_minimum_amount_title = Cantidad Mínima
 info_minimum_amount_description = En la red %@, el importe mínimo para esta transacción es %@.
+info_reminder_copying_secret_phrase_title = Recordatorio
+info_reminder_copying_secret_phrase_description1 = Cualquier persona que tenga tu frase secreta tendrá acceso a tu billetera y control total sobre tus fondos.
+info_reminder_copying_secret_phrase_description2 = Gem no puede ayudar si se pierden fondos debido a compartir una frase secreta.
 
 # Input
 

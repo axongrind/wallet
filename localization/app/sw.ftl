@@ -41,6 +41,7 @@ common_unpinned_asset = Imebanduliwa: %@
 common_skip = Ruka
 common_warning = Onyo
 common_learn_more = Jifunze Zaidi
+common_i_understand = Ninaelewa
 common_description = Maelezo
 common_emoji = Emoji
 common_avatar = Avatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = Ufadhili wa APR
 info_perpetual_funding_apr_description = Kiwango cha kila mwaka ambacho nafasi ndefu hulipa nafasi fupi (ikiwa hasi, nafasi fupi hulipa nafasi ndefu). Hakuna ada zinazohusishwa na ufadhili, ambao ni uhamishaji kati ya watumiaji ili kusukuma bei kuelekea bei inayotarajiwa.
 info_minimum_amount_title = Kiasi cha Chini
 info_minimum_amount_description = Kwenye mtandao wa %@, kiasi cha chini kwa muamala huu ni %@.
+info_reminder_copying_secret_phrase_title = Ukumbusho
+info_reminder_copying_secret_phrase_description1 = Mtu yeyote aliye na Kifungu chako cha Siri atakuwa na ufikiaji wa pochi yako na udhibiti kamili wa fedha zako.
+info_reminder_copying_secret_phrase_description2 = Gem haiwezi kusaidia iwapo fedha zozote zitapotea kutokana na kushiriki Kifungu cha Siri.
 
 # Input
 

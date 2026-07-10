@@ -39,6 +39,7 @@
 "common.skip" = "پرش کنید";
 "common.warning" = "هشدار";
 "common.learn_more" = "بیشتر بدانید";
+"common.i_understand" = "متوجه شدم";
 "common.description" = "توضیحات";
 "common.emoji" = "ایموجی";
 "common.avatar" = "آواتار";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "نرخ سالانه ای که در آن لانگ ها به شورت پرداخت می کنند (اگر منفی باشد، شورت ها به لانگ پرداخت می کنند). هیچ کارمزدی در ارتباط با تامین مالی وجود ندارد، که انتقالی همتا به همتا بین کاربران است تا قیمت ها را به سمت قیمت لحظه ای سوق دهد.";
 "info.minimum_amount.title" = "حداقل مقدار";
 "info.minimum_amount.description" = "در شبکه %@، حداقل مبلغ برای این تراکنش %@ است.";
+"info.reminder_copying_secret_phrase.title" = "یادآوری";
+"info.reminder_copying_secret_phrase.description1" = "هر کسی که عبارت مخفی شما را داشته باشد به کیف پول شما دسترسی خواهد داشت و کنترل کامل دارایی‌های شما را در اختیار می‌گیرد.";
+"info.reminder_copying_secret_phrase.description2" = "اگر به دلیل به اشتراک‌گذاری عبارت مخفی، دارایی‌ای از دست برود، Gem قادر به کمک نخواهد بود.";
 "input.enter_amount_to" = "لطفاً مبلغ را به %@ وارد کنید";
 "nft.properties" = "خواص";
 "nft.collections" = "مجموعه ها";

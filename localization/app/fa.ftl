@@ -41,6 +41,7 @@ common_unpinned_asset = %@ از پین خارج شد.
 common_skip = پرش کنید
 common_warning = هشدار
 common_learn_more = بیشتر بدانید
+common_i_understand = متوجه شدم
 common_description = توضیحات
 common_emoji = ایموجی
 common_avatar = آواتار
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = نرخ سالانه تأمین مالی (APR)
 info_perpetual_funding_apr_description = نرخ سالانه ای که در آن لانگ ها به شورت پرداخت می کنند (اگر منفی باشد، شورت ها به لانگ پرداخت می کنند). هیچ کارمزدی در ارتباط با تامین مالی وجود ندارد، که انتقالی همتا به همتا بین کاربران است تا قیمت ها را به سمت قیمت لحظه ای سوق دهد.
 info_minimum_amount_title = حداقل مقدار
 info_minimum_amount_description = در شبکه %@، حداقل مبلغ برای این تراکنش %@ است.
+info_reminder_copying_secret_phrase_title = یادآوری
+info_reminder_copying_secret_phrase_description1 = هر کسی که عبارت مخفی شما را داشته باشد به کیف پول شما دسترسی خواهد داشت و کنترل کامل دارایی‌های شما را در اختیار می‌گیرد.
+info_reminder_copying_secret_phrase_description2 = اگر به دلیل به اشتراک‌گذاری عبارت مخفی، دارایی‌ای از دست برود، Gem قادر به کمک نخواهد بود.
 
 # Input
 

@@ -41,6 +41,7 @@ common_unpinned_asset = ההצמדה בוטלה: %@
 common_skip = לְדַלֵג
 common_warning = אַזהָרָה
 common_learn_more = למידע נוסף
+common_i_understand = הבנתי
 common_description = תֵאוּר
 common_emoji = אימוג'י
 common_avatar = גִלגוּל
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = APR מימון
 info_perpetual_funding_apr_description = השיעור השנתי שבו לונג משלם שורט (אם שלילי, שורט משלם לונג). אין עמלות הקשורות למימון, שהוא העברה עמית לעמית בין משתמשים כדי לדחוף את המחירים לכיוון מחיר הספוט.
 info_minimum_amount_title = כמות מינימלית
 info_minimum_amount_description = ברשת %@, הסכום המינימלי לעסקה זו הוא %@.
+info_reminder_copying_secret_phrase_title = תזכורת
+info_reminder_copying_secret_phrase_description1 = לכל מי שיש לו את הביטוי הסודי שלך תהיה גישה לארנק שלך ושליטה מלאה על הכספים שלך.
+info_reminder_copying_secret_phrase_description2 = Gem לא תוכל לעזור אם כספים יאבדו עקב שיתוף ביטוי סודי.
 
 # Input
 

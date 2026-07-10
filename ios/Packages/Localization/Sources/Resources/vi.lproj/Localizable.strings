@@ -39,6 +39,7 @@
 "common.skip" = "Bỏ qua";
 "common.warning" = "Cảnh báo";
 "common.learn_more" = "Tìm hiểu thêm";
+"common.i_understand" = "Tôi hiểu";
 "common.description" = "Sự miêu tả";
 "common.emoji" = "Emoji";
 "common.avatar" = "Hình đại diện";
@@ -452,6 +453,9 @@
 "info.perpetual.funding_apr.description" = "Tỷ lệ hàng năm mà người mua trả tiền cho người bán (nếu âm, người bán trả tiền cho người mua). Không có phí liên quan đến tài trợ, đó là chuyển khoản ngang hàng giữa những người dùng để đẩy giá về giá giao ngay.";
 "info.minimum_amount.title" = "Số tiền tối thiểu";
 "info.minimum_amount.description" = "Trên mạng %@, số tiền tối thiểu cho giao dịch này là %@.";
+"info.reminder_copying_secret_phrase.title" = "Nhắc nhở";
+"info.reminder_copying_secret_phrase.description1" = "Bất kỳ ai có Cụm từ bí mật của bạn sẽ có quyền truy cập vào ví của bạn và toàn quyền kiểm soát tiền của bạn.";
+"info.reminder_copying_secret_phrase.description2" = "Gem không thể trợ giúp nếu bất kỳ khoản tiền nào bị mất do chia sẻ Cụm từ bí mật.";
 "input.enter_amount_to" = "Vui lòng nhập số tiền tới %@";
 "nft.properties" = "Của cải";
 "nft.collections" = "Bộ sưu tập";

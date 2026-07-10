@@ -41,6 +41,7 @@
   <string name="common_skip">Passer</string>
   <string name="common_warning">Avertissement</string>
   <string name="common_learn_more">En savoir plus</string>
+  <string name="common_i_understand">Je comprends</string>
   <string name="common_description">Descriptif</string>
   <string name="common_emoji">Émoji</string>
   <string name="common_avatar">Avatar</string>
@@ -467,6 +468,9 @@
   <string name="info_perpetual_funding_apr_description">Le taux annualisé auquel les positions longues paient les positions courtes (si négatif, les positions courtes paient les positions longues). Il n\'y a aucun frais associé au financement, qui est un transfert peer-to-peer entre utilisateurs pour pousser les prix vers le prix spot.</string>
   <string name="info_minimum_amount_title">Montant minimum</string>
   <string name="info_minimum_amount_description">Sur le réseau %1$s, le montant minimum pour cette transaction est %2$s.</string>
+  <string name="info_reminder_copying_secret_phrase_title">Rappel</string>
+  <string name="info_reminder_copying_secret_phrase_description1">Toute personne disposant de votre Phrase secrète aura accès à votre portefeuille et un contrôle total sur vos fonds.</string>
+  <string name="info_reminder_copying_secret_phrase_description2">Gem ne peut pas vous aider en cas de perte de fonds due au partage d\'une Phrase secrète.</string>
   <string name="input_enter_amount_to">Veuillez saisir le montant de %1$s</string>
   <string name="nft_properties">Propriétés</string>
   <string name="nft_collections">Collections</string>

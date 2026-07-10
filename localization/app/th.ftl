@@ -41,6 +41,7 @@ common_unpinned_asset = เลิกปักหมุดแล้ว: %@
 common_skip = ข้าม
 common_warning = คำเตือน
 common_learn_more = เรียนรู้เพิ่มเติม
+common_i_understand = ฉันเข้าใจ
 common_description = คำอธิบาย
 common_emoji = อิโมจิ
 common_avatar = อวตาร
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = Funding APR
 info_perpetual_funding_apr_description = อัตรารายปีที่สัญญา Long จ่าย Short (หากติดลบ Short จะจ่าย Long) ไม่มีค่าธรรมเนียมที่เกี่ยวข้องกับการระดมทุน ซึ่งเป็นการโอนแบบเพียร์ทูเพียร์ระหว่างผู้ใช้เพื่อดันราคาไปสู่ราคาสปอต
 info_minimum_amount_title = จำนวนเงินขั้นต่ำ
 info_minimum_amount_description = บนเครือข่าย %@ จำนวนขั้นต่ำสำหรับธุรกรรมนี้คือ %@
+info_reminder_copying_secret_phrase_title = ข้อเตือนใจ
+info_reminder_copying_secret_phrase_description1 = ใครก็ตามที่มีวลีลับของคุณจะสามารถเข้าถึงกระเป๋าเงินของคุณและควบคุมเงินทุนของคุณได้อย่างเต็มที่
+info_reminder_copying_secret_phrase_description2 = Gem ไม่สามารถช่วยเหลือได้หากมีเงินทุนสูญหายเนื่องจากการแบ่งปันวลีลับ
 
 # Input
 

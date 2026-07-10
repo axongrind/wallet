@@ -41,6 +41,7 @@
   <string name="common_skip">Saltar</string>
   <string name="common_warning">Advertencia</string>
   <string name="common_learn_more">Más información</string>
+  <string name="common_i_understand">Lo entiendo</string>
   <string name="common_description">Descripción</string>
   <string name="common_emoji">Emoji</string>
   <string name="common_avatar">Avatar</string>
@@ -467,6 +468,9 @@
   <string name="info_perpetual_funding_apr_description">La tasa anualizada a la que los largos pagan a los cortos (si es negativa, los cortos pagan a los largos). No hay tarifas asociadas con la financiación, que es una transferencia de igual a igual entre usuarios para impulsar los precios hacia el precio al contado.</string>
   <string name="info_minimum_amount_title">Cantidad Mínima</string>
   <string name="info_minimum_amount_description">En la red %1$s, el importe mínimo para esta transacción es %2$s.</string>
+  <string name="info_reminder_copying_secret_phrase_title">Recordatorio</string>
+  <string name="info_reminder_copying_secret_phrase_description1">Cualquier persona que tenga tu frase secreta tendrá acceso a tu billetera y control total sobre tus fondos.</string>
+  <string name="info_reminder_copying_secret_phrase_description2">Gem no puede ayudar si se pierden fondos debido a compartir una frase secreta.</string>
   <string name="input_enter_amount_to">Por favor ingrese la cantidad a %1$s</string>
   <string name="nft_properties">Propiedades</string>
   <string name="nft_collections">Colecciones</string>

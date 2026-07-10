@@ -41,6 +41,7 @@ common_unpinned_asset = Dinyahsemat: %@
 common_skip = Langkau
 common_warning = Amaran
 common_learn_more = Ketahui Lebih Lanjut
+common_i_understand = Saya faham
 common_description = Penerangan
 common_emoji = Emoji
 common_avatar = Avatar
@@ -572,6 +573,9 @@ info_perpetual_funding_apr_title = Pembiayaan APR
 info_perpetual_funding_apr_description = Kadar tahunan di mana long membayar short (jika negatif, short membayar long). Tiada yuran yang berkaitan dengan pembiayaan, yang merupakan pemindahan rakan ke rakan antara pengguna untuk menolak harga ke arah harga spot.
 info_minimum_amount_title = Jumlah Minimum
 info_minimum_amount_description = Pada rangkaian %@, jumlah minimum untuk transaksi ini ialah %@.
+info_reminder_copying_secret_phrase_title = Peringatan
+info_reminder_copying_secret_phrase_description1 = Sesiapa yang mempunyai Frasa Rahsia anda akan mempunyai akses kepada dompet anda dan kawalan penuh ke atas dana anda.
+info_reminder_copying_secret_phrase_description2 = Gem tidak dapat membantu jika sebarang dana hilang akibat berkongsi Frasa Rahsia.
 
 # Input
 
