@@ -1,6 +1,7 @@
 // Copyright (c). Gem Wallet. All rights reserved.
 
 import Components
+import InfoSheet
 import Localization
 import Primitives
 import PrimitivesComponents
@@ -10,6 +11,7 @@ import SwiftUI
 struct ShowSecretDataScene: View {
     let model: any SecretPhraseViewableModel
     @State private var isPresentingCopyToast = false
+    @State private var isPresentingInfoSheet: InfoSheetType?
 
     var body: some View {
         List {
@@ -47,11 +49,19 @@ struct ShowSecretDataScene: View {
             model: model.copyModel,
             isPresenting: $isPresentingCopyToast,
         )
+        .sheet(item: $isPresentingInfoSheet) {
+            InfoSheetScene(type: $0)
+        }
         .detectScreenshots(docsUrl: model.docsUrl)
         .protectFromScreenRecording()
     }
 
     private func copy() {
+        isPresentingInfoSheet = .reminderCopyingSecretPhrase(action: onConfirmCopy)
+    }
+
+    private func onConfirmCopy() {
+        isPresentingInfoSheet = nil
         isPresentingCopyToast = true
     }
 
