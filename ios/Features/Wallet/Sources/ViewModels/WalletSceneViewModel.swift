@@ -85,6 +85,10 @@ public final class WalletSceneViewModel: Sendable, AssetActions {
         assetsQuery.value
     }
 
+    public var title: String {
+        Localized.Wallet.title
+    }
+
     var manageTokenTitle: String {
         Localized.Wallet.manageTokenList
     }

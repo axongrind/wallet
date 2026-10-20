@@ -53,7 +53,7 @@ struct WalletNavigationView: View {
             model.perpetualBalanceQuery,
             model.collectionsQuery,
         )
-        .navigationTitle(Localized.Wallet.title)
+        .navigationTitle(model.title)
         .navigationBarTitleDisplayMode(.inline)
         .toolbar {
             if !model.isPresentingSearch {
